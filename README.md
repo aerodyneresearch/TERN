@@ -5,7 +5,7 @@ TERN 2.2.23 is the automated version of TERN and includes a new retention time s
 
 Note that version 2.2.22 was a beta-version of the current code with limited, off-line release. Any user of that version should upgrade to the current package.
 
-This version of TERN requires Igor Pro v9 or higher [Wavemetrics] and Windows OS.
+This version of TERN requires Igor Pro v9 or higher [Wavemetrics].
 
 
 See the [Aerodyne Customer Support website](https://support.aerodyne.com/) for more information and guidance.
