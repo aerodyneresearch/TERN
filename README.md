@@ -10,5 +10,3 @@ Automated single-ion peak fitting as an efficient approach for analyzing complex
 This version of TERN requires Wavemetrics Igor Pro v7 or higher.
 
 See the Aerodyne Customer Support website (https://support.aerodyne.com/hc/en-us/sections/12664083161879-GC-Software) for more information and guidance.
-
-Note that the software can be found in the file "TERN_2_2_24.zip". Ignore the Source.zip and Source.tar.gz files which are default created by GitHub.
